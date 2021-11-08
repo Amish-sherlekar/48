@@ -150,7 +150,7 @@ function setup() {
 
   spaceship4.scale = 1;
 
-  spaceship5 = createSprite(1000, 150);
+  spaceship5 = createSprite(displayWidth / 1, 150);
 
   spaceship5.addImage(spaceship5Img);
 
