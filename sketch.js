@@ -144,43 +144,43 @@ function setup() {
 
   spaceship3.scale = 1;
 
-  spaceship4 = createSprite(displayWidth / 1.6, 150);
+  spaceship4 = createSprite(displayWidth / 1.9, 120);
 
   spaceship4.addImage(spaceship4Img);
 
   spaceship4.scale = 1;
 
-  spaceship5 = createSprite(displayWidth / 1, 150);
+  spaceship5 = createSprite(displayWidth / 1.5, 150);
 
   spaceship5.addImage(spaceship5Img);
 
   spaceship5.scale = 1.5;
 
-  spaceship6 = createSprite(150, 600);
+  spaceship6 = createSprite(displayWidth / 10, 600);
 
   spaceship6.addImage(spaceship6Img);
 
   spaceship6.scale = 1;
 
-  spaceship7 = createSprite(400, 600);
+  spaceship7 = createSprite(displayWidth / 4, 600);
 
   spaceship7.addImage(spaceship7Img);
 
   spaceship7.scale = 1;
 
-  spaceship8 = createSprite(600, 600);
+  spaceship8 = createSprite(displayWidth / 2.5, 600);
 
   spaceship8.addImage(spaceship8Img);
 
   spaceship8.scale = 1;
 
-  spaceship9 = createSprite(800, 600);
+  spaceship9 = createSprite(displayWidth / 1.9, 600);
 
   spaceship9.addImage(spaceship9Img);
 
   spaceship9.scale = 0.4;
 
-  spaceship10 = createSprite(1000, 600);
+  spaceship10 = createSprite(displayWidth / 1.5, 600);
 
   spaceship10.addImage(spaceship10Img);
 
